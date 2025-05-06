@@ -1,12 +1,11 @@
 <?php
 
 return [
-    'database' => [
-        'host' => 'localhost',
-        'port' => 3306,
-        'dbname' => 'myapp',
-        'charset' => 'utf8mb4'
-    ],
-
+    "database"=>[
+        "host" => "localhost",
+        "dbname" => "php",
+        "username" =>"root",
+        "password"=> "Mityo123@",
+        "charset" => "utf8mb4",
+        "port" => 3306]];
     //
-];
